@@ -62,3 +62,7 @@ Make sure you have Docker installed. Then run:
 ### 5. 🔃 Proof of receipt of POSTMAN messages
 
 ![{F470B177-3C9E-4E2D-BFAF-0B931748D098}](https://github.com/user-attachments/assets/fb0c1b9d-8c4a-4bf7-b672-12ce12e96999)
+
+### 6. 🔃 Proof of receipt of messages to my Email using JavaMailSender
+
+![{A90AEC22-BE78-48E8-B998-8B4C0DA11EE3}](https://github.com/user-attachments/assets/32a0c6f2-cd83-4894-a360-d837f64f73eb)
