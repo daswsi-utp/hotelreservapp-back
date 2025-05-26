@@ -32,5 +32,6 @@ build/
 ### VS Code ###
 .vscode/
 
-# Ignorar mi configuración local
-#/src/main/resources/application.properties
+# Ignore my local configuration, but to test it you have to put “#” and 
+# configure what you need according to application.properties
+/src/main/resources/application.properties
