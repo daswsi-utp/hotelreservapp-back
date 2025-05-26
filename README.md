@@ -54,3 +54,7 @@ Make sure you have Docker installed. Then run:
 ### 3. 🔃 Postman for testing
 
 ![{CA61073D-DCCB-4960-BA3B-6240510B513E}](https://github.com/user-attachments/assets/a16753f6-de6f-4087-939a-f2b2f1194182)
+
+### 4. 🔃 Proof of receipt in MySQL Workbench, but first you must create the reserva_hotel_db
+
+![{7FBACEF8-49B1-4D52-8CDB-2616978DC489}](https://github.com/user-attachments/assets/0051d168-6513-4dbf-a7d0-56ee74e8bb02)
