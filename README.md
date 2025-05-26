@@ -32,3 +32,7 @@ In this part of the project the focus is on the messaging module.
 Make sure you have Docker installed. Then run:
 
 `docker run -p 6379:6379 redis`
+
+### 2. 🔃 Running the Backend
+
+`./mvnw spring-boot:run`
