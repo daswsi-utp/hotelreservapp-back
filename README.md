@@ -50,3 +50,7 @@ Make sure you have Docker installed. Then run:
 ### 2. 🔃 Running the Frontend
 
 ![{E9C2C426-D130-4366-87A4-C1BF1B80F67A}](https://github.com/user-attachments/assets/6382b91c-0d18-4b59-8014-0a96832830c1)
+
+### 3. 🔃 Postman for testing
+
+![{CA61073D-DCCB-4960-BA3B-6240510B513E}](https://github.com/user-attachments/assets/a16753f6-de6f-4087-939a-f2b2f1194182)
