@@ -24,3 +24,11 @@ In this part of the project the focus is on the messaging module.
 - 🐳 Docker (for Redis)
 - 📦 Maven
 - 🧪 Postman for testing
+
+## ▶️ Execution Commands
+
+### 1. 🔃 Running Redis with Docker
+
+Make sure you have Docker installed. Then run:
+
+`docker run -p 6379:6379 redis`
