@@ -46,3 +46,7 @@ Make sure you have Docker installed. Then run:
 
 ### 1. 🔃 Running Redis with Docker and Running the Backend
 ![image](https://github.com/user-attachments/assets/1fecde00-6445-4f43-a8e8-b52269341b30)
+
+### 2. 🔃 Running the Frontend
+
+![{E9C2C426-D130-4366-87A4-C1BF1B80F67A}](https://github.com/user-attachments/assets/6382b91c-0d18-4b59-8014-0a96832830c1)
