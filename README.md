@@ -36,3 +36,8 @@ Make sure you have Docker installed. Then run:
 ### 2. 🔃 Running the Backend
 
 `./mvnw spring-boot:run`
+
+### 3. 🔃 Running the Frontend
+
+`npm install`
+`npm run dev`
