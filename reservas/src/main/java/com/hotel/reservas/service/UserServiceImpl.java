@@ -1,9 +1,9 @@
 package com.hotel.reservations.service;
 
-import com.hotel.reservations.dto.UserDTO;
-import com.hotel.reservations.entity.User;
-import com.hotel.reservations.exception.UserNotFoundException;
-import com.hotel.reservations.repository.UserRepository;
+import com.hotel.reservas.dto.UserDTO;
+import com.hotel.reservas.entity.User;
+import com.hotel.reservas.exception.UserNotFoundException;
+import com.hotel.reservas.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;

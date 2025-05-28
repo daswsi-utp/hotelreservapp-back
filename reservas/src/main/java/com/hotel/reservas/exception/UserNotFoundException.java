@@ -1,4 +1,4 @@
-package com.hotel.reservations.exception;
+package com.hotel.reservas.exception;
 
 public class UserNotFoundException extends RuntimeException {
 
