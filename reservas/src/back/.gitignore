@@ -1,0 +1,12 @@
+# Ignorar el archivo de variables de entorno
+.env
+
+# Ignorar la carpeta node_modules (muy importante)
+node_modules/
+
+# Otras cosas comunes que podrías ignorar
+dist/
+build/
+logs/
+*.log
+.DS_Store
